@@ -68,3 +68,5 @@ Access to free support forum at http://catchthemes.com/support-forum/forum/catch
 
 == Changelog ==
 Please refer to changelog.txt file or change log page at http://catchthemes.com/changelogs/catch-everest-theme/
+
+test message
